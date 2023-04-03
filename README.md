@@ -12,6 +12,8 @@
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"/></a> &nbsp
 
   <br>
+  <br/>
+  <br/>
   
   
   ## 🐹문제풀이🐹
@@ -20,6 +22,8 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=parksy8103)](https://solved.ac/parksy8103)
   <img src="http://mazandi.herokuapp.com/api?handle=parksy8103&theme=warm"/>
   <br/> 
+  <br/>
+  <br/>
   
   ## 🐰깃허브🐰
   
