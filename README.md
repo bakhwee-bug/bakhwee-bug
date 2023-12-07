@@ -1,6 +1,6 @@
-<div align="center">
+<div>
 
-  <p align="center"> 
+  <p> 
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"></a> &nbsp 
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a> &nbsp 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/></a> &nbsp 
@@ -14,7 +14,6 @@
   <br/>
   
   
-  ## 🐹문제풀이🐹
   <br/>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=parksy8103)](https://solved.ac/parksy8103)
@@ -23,15 +22,12 @@
   <br/>
   <br/>
   
-  ## 🐰깃허브🐰
   
   <br/> 
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakhwee-bug&layout=compact)](https://github.com/bakhwee-bug/github-readme-stats)
   <br/> 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakhwee-bug&show_icons=true&theme=radical)
-  
-  
   
   
 <!--START_SECTION:waka-->
