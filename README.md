@@ -9,25 +9,23 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"/></a> &nbsp
-
   <br>
   <br/>
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakhwee-bug&layout=compact)](https://github.com/bakhwee-bug/github-readme-stats)
-  <br/> 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakhwee-bug&show_icons=true&theme=radical)
-  
-  
-<!--START_SECTION:waka-->
-  
-<!--END_SECTION:waka-->
-
 <details>
   <summary><b>👽👾🤖👻☠</b></summary>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=parksy8103)](https://solved.ac/parksy8103)
+
+  ###  📚Most Used Language
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakhwee-bug&layout=compact&theme=dracula)
+   <br/> 
+  ###  👩‍💻GitHub stats
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakhwee-bug&show_icons=true&theme=dracula)
+   <br/> 
+   ###  🏅Baekjoon solved rank
+   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=parksy8103)](https://solved.ac/parksy8103)
   <img src="http://mazandi.herokuapp.com/api?handle=parksy8103&theme=warm"/>
-  <br/> 
+ 
 </details>
  
 </div>
