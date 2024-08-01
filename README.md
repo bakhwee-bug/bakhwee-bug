@@ -28,9 +28,13 @@
   <br/> 
   <a href="https://opgc.me/#/users/bakhwee-bug" target="_blank"><img src="https://api.opgc.me/githubs/users/bakhwee-bug/tag/?theme=basic" /></a>
   <br/> 
-  <a href="https://github.com/devxb/gitanimals">
-   <img src="https://render.gitanimals.org/farms/{bakhwee-bug}"/>
-  </a>
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/bakhwee-bug"
+  width="600"
+  height="300"
+/>
+</a>
 </details>
  
 </div>
